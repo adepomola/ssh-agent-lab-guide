@@ -59,7 +59,7 @@ Initialized empty Git repository...
 
 ### Screenshot
 
-*01-git-init.png*
+![Git Initialization](screenshots/01-git-init.png)
 
 ---
 
@@ -86,7 +86,7 @@ This confirms that an SSH key pair already exists.
 
 ### Screenshot
 
-*02-check-existing-ssh-key.png*
+![Check Existing SSH Key](screenshots/02-check-existing-ssh-key.png)
 
 ---
 
@@ -106,7 +106,7 @@ The output displays the SSH private key, public key, and other SSH configuration
 
 ### Screenshot
 
-*03-ssh-key-files.png*
+![SSH Key Files](screenshots/03-ssh-key-files.png)
 
 ---
 
@@ -132,7 +132,7 @@ The entire output was copied.
 
 ### Screenshot
 
-*04-public-ssh-key.png*
+![Public SSH Key](screenshots/04-public-ssh-key.png)
 
 ---
 
@@ -152,9 +152,9 @@ The copied public key was added to GitHub.
 
 ### Screenshots
 
-*05-add-ssh-key-page.png*
+![Add SSH Key Page](screenshots/05-add-ssh-key-page.png)
 
-*06-ssh-key-added.png*
+![SSH Key Successfully Added](screenshots/06-ssh-key-added.png)
 
 ---
 
@@ -178,7 +178,7 @@ Agent pid xxxx
 
 ### Screenshot
 
-*07-start-ssh-agent.png*
+![Start SSH Agent](screenshots/07-start-ssh-agent.png)
 
 ---
 
@@ -202,7 +202,7 @@ Identity added...
 
 ### Screenshot
 
-*08-add-key-to-agent.png*
+![SSH Key Added to Agent](screenshots/08-add-key-to-agent.png)
 
 ---
 
@@ -228,7 +228,7 @@ This confirms that SSH authentication is correctly configured.
 
 ### Screenshot
 
-*09-test-github-ssh.png*
+![SSH Connection Test](screenshots/09-test-github-ssh.png)
 
 ---
 
