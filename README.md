@@ -316,9 +316,9 @@ This project successfully demonstrated the process of configuring SSH authentica
 
 # References
 
-- Git Documentation – https://git-scm.com/doc
-- GitHub Documentation – https://docs.github.com/en/authentication
-- OpenSSH Documentation – https://www.openssh.com/manual.html
+- [Git Documentation](https://git-scm.com/docs)
+- [GitHub SSH Documentation](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+- [OpenSSH Documentation](https://www.openssh.com/manual.html)
 
 ---
 
